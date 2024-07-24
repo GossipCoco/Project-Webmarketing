@@ -1,11 +1,9 @@
 <!-- eslint-disable vue/multi-word-component-names -->
 <template>
-    <div>
-
-    </div>
+    <div></div>
 </template>
 <script>
-export default{
-    name: 'Home'
+export default {
+    name: 'Accueil'
 }
 </script>
